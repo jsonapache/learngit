@@ -7,3 +7,4 @@ Create a new branch is quick again.
 Create a new branch is quick again and simple.
 add merge.
 merge without --no-ff.
+issue-102.
